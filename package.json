@@ -1,0 +1,23 @@
+{
+  "name": "factor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejpbruel/factor.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ejpbruel/factor/issues"
+  },
+  "homepage": "https://github.com/ejpbruel/factor#readme",
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0"
+  }
+}
